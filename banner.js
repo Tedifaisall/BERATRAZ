@@ -25,8 +25,8 @@ const banner = `
 ** ====================================== **
 
 
-* Author: @zlkcyber                        
-* Group: t.me/zlkcybergroup                
-* Github Link: github.com/zlkcyber         
+* Author: @TEDI                        
+* Group: t.me/TEDI                
+* Github Link: github.com/TEDI       
                  `
 export default banner;
